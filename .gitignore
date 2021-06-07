@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+
+
+
+.vs/
+Debug/
+curl/
+main.cpp.vcxproj
+main.cpp.vcxproj.filters
+main.cpp.vcxproj.user
+packages.config
+

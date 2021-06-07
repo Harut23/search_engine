@@ -9,6 +9,7 @@ char start_page[] = " https://www.reuters.com ";
 
 #include "libxml/HTMLparser.h"
 #include "libxml/xpath.h"
+
 #include "libxml/uri.h"
 
 
